@@ -1,1 +1,1 @@
-# Kaggle-Python-Solved-Exercises
+<h1 align="center"> <a href="https://kaggle.com/mrankitgupta" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/kaggle-ar21.svg" alt="mrankitgupta" height="65" width="155" /></a>Python Solved Exercise <a href="https://www.kaggle.com/learn/certification/mrankitgupta/pandas" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="32"/> </a> </h1>
